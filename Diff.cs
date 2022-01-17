@@ -11,7 +11,7 @@ namespace Application
         {
             int a = 50;
             int b = 6;
-            Console.Write("output is:{0}", a - b);
+            Console.Write("difference is:{0}", a - b);
         }
     }
 }
