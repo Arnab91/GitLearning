@@ -11,7 +11,7 @@ namespace Application
         {
             int a = 5;
             int b = 6;
-            Console.Write("output is:{0}", a + b);
+            Console.Write("the sum of two number is:{0}", a + b);
         }
     }
 }

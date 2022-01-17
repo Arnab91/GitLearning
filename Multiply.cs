@@ -11,7 +11,7 @@ namespace Application
         {
             int a = 5;
             int b = 6;
-            Console.Write("result: {0}", a * b);
+            Console.Write("the multiplication of two no is: {0}", a * b);
         }
     }
 }
